@@ -1,3 +1,50 @@
 {
-  "favorites": []
+  "favorites": [
+    {
+      "id": 235930,
+      "backdrop_path": "/vLt3itMSHeJNTRktprQzVheOzUd.jpg",
+      "name": "Devil May Cry",
+      "original_name": "Devil May Cry",
+      "overview": "When a mysterious villain threatens to open the gates of Hell, a devilishly handsome demon hunter could be the world's best hope for salvation.",
+      "poster_path": "/syY5tQzZDdiwGx71cj1Zz4rtrDL.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 72.9692,
+      "first_air_date": "2025-04-03",
+      "vote_average": 7.643,
+      "vote_count": 14,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "id": 229711,
+      "backdrop_path": "/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
+      "name": "The Bondsman",
+      "original_name": "The Bondsman",
+      "overview": "Backwoods bounty hunter Hub Halloran comes back from the dead with an unexpected second chance at life, love, and a nearly-forgotten musical career — only to find that his old job now has a demonic new twist.",
+      "poster_path": "/b2z6OfWU3bjxjoFzJezG7I1exds.jpg",
+      "media_type": "tv",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10759,
+        10765,
+        35
+      ],
+      "popularity": 88.3436,
+      "first_air_date": "2025-04-03",
+      "vote_average": 8.1,
+      "vote_count": 15,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ]
 }

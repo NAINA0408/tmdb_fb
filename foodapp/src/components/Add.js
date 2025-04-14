@@ -1,4 +1,5 @@
 import "../componentscss/Add.css";
+// import React from 'react';
 
 const Add = ({ isAdded, onAdd, onRemove }) => {
   const handleClick = (e) => {
